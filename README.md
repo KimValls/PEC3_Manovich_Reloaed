@@ -1,7 +1,7 @@
 # PAC3: Visionant el futur amb les ulleres de Manovich
 
-*Autor: Joaquim Valls Farrán
-*Data: 08/12/2021
+Autor: Joaquim Valls Farrán
+Data: 08/12/2021
 
 ![Hibridació musical](https://torange.biz/photofxnew/177/HD/sound-audio-musical-music-digital-binary-code-177538.jpg) 
 
