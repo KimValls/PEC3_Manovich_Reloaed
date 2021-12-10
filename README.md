@@ -66,7 +66,10 @@ A diferència dels dos exemples plantejats a l'inici, l'usuari és lliure de gau
 -   ALBERICH-PASCUAL, Jordi. **Elementos de la creatividad multimedia: apropiación, remediación, hibridación** (en línia). Mosaic. Disponible a: https://mosaic.uoc.edu/2018/01/18/elementos-de-la-creatividad-multimedia-apropiacion-remediacion-hibridacion/
 -   ALBA, Alfonso. **Fork de repositorios en Github** (en linia). Aprende GIT. Disponible a: https://aprendegit.com/fork-de-repositorios-para-que-sirve/
 -   CRISTÓBAL, Javier. **Qué es Markdown** (en línia). Markdown. Disponible a: https://markdown.es/
-- 
+-  ELEPHANT. **Ryoji Ikeda’s Test Pattern Proves the Beauty in the Brutal** (en línia). Elephant. Disponible a: https://elephant.art/ryoji-ikeda-test-pattern/
+- BRUCE-JONES, Henry. **Ryoji Ikeda Presents: test pattern** (en línia). Fact Magazine. Disponible a: https://www.factmag.com/2021/05/04/ryoji-ikeda-presents-test-pattern/
+- SPICE, Anton. **Ryoji Ikeda premieres mind-bending new A/V artwork test pattern at The Store x** (en línia). The Vinyl Factory. Disponible a: https://thevinylfactory.com/news/ryoji-ikeda-new-test-pattern-n12-store-studios/
+- PINEDO, Ebenizer. **Otro éxito gracias a la cuarentena: las impresionantes cifras de "Fortnite" y su evento de Travis Scott** (en línia). Hipertextual. Disponible a: https://hipertextual.com/2020/04/fortnite-travis-scott-records
 
 ----
 
